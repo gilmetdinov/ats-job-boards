@@ -20,6 +20,8 @@ These are the 100 largest boards per platform, 313,000 open jobs between them. T
 
 ## Public job board APIs, by ATS
 
+A walkthrough with working Python code for Greenhouse, Lever and Ashby: [Greenhouse, Lever and Ashby have public job APIs. Here is how to read them in Python](https://dev.to/picdev/greenhouse-lever-and-ashby-have-public-job-apis-here-is-how-to-read-them-in-python-4lpb).
+
 All seven platforms publish job postings through an endpoint that needs no key and no login. Replace `{token}` with the value from the `token` column.
 
 | ATS | Endpoint | Format |
